@@ -4,7 +4,7 @@ namespace Person
 {
     public class Client
     {
-
+//123
         public string Name { get; set; }
         public uint Age { get; set; } //беззнаковое целое число
         public double Balance { get; set; }
